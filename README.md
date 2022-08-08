@@ -1,10 +1,8 @@
 <div align="center">
-
-# PABLO VALENTIN
-
-</br>
-
+  
 <a href="https://github.com/PabloValentin94">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=200&section=header&text=Pablo Valentin&desc= Programador&fontSize=50&fontColor=FFFF00&animation=twinkling&fontAlignY=30&descAlignY=50&stroke=000&strokeWidth=2.7"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloValentin94&show_icons=true&bg_color=30,011F4B,03396C,005B96,6497B1,B3CDE0&title_color=ffff00&text_color=ffffff&icon_color=ffff00&hide_border=true&count_private=true&include_all_commits=false"/>
 
@@ -66,11 +64,17 @@
 <a href="https://github.com/PabloValentin94">
 
 <img width="300" src="https://user-images.githubusercontent.com/95161515/183267313-a8eacc75-3473-41a0-a0fa-4c07d10470d6.png"/>
-  
-</a>
 
+</a>
+  
 #
 
 Escola: **Etec Joaquim Ferreira do Amaral**. Para mais informações acesse: [http://www.etecjau.com.br/etecjau/](http://www.etecjau.com.br/etecjau/)
+
+<a href="https://github.com/PabloValentin94">
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=200&section=footer"/>
+  
+</a>
 
 </div>
