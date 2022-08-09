@@ -73,7 +73,7 @@ Escola: **Etec Joaquim Ferreira do Amaral**. Para mais informações acesse: [ht
 
 <a href="https://github.com/PabloValentin94">
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100%:B3CDE0,80%:6497B1,60%:005B96,40%:03396C,20%:011F4B&height=125&section=footer"/>
   
 </a>
 
